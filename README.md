@@ -40,6 +40,6 @@
   <a href="https://web.facebook.com/profile.php?id=100038961272651&_rdc=1&_rdr" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
    <a href="https://discord.com/channels/DianaSilva#4388" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   
-  ![Snake animation](https://github.com/ClaudiannaSilva/ClaudiannaSilva/blob/main/github-user-contribution.svg)
+  ![Snake animation](https://github.com/Bruno21santiago/Bruno21santiago/blob/main/github-user-contribution.svg)
 </div>
 
